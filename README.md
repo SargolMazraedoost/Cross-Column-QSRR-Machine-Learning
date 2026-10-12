@@ -42,13 +42,7 @@ Mazraedoost, S., Žuvela, P., Ulenberg, S., Bączek, T., & Liu, J. J. (2024). Cr
 
 ## Keywords
 
-## Keywords
-
-## Keywords
-
 `Quantitative Structure–Retention Relationship (QSRR)` · `Reversed-Phase High-Performance Liquid Chromatography (RP-HPLC)` · `Density Functional Theory (DFT)` · `Machine Learning (ML)` · `Chromatographic Retention Time Prediction` · `Chromatography` · `Cross-Column Retention Modeling` · `Computational Chemistry` · `Chemoinformatics` · `Chemometrics` · `Molecular Descriptors` · `Quantum Chemical Descriptors` · `Gradient Boosting Regression (GBR)` · `Random Forest Regression (RFR)` · `Partial Least Squares Regression (PLSR)` · `Ridge Regression` · `Quantitative Structure–Property Relationship (QSPR)` · `High-Performance Liquid Chromatography (HPLC)` · `Reversed-Phase Liquid Chromatography (RPLC)` · `Molecular Property Prediction` · `Predictive Modeling` · `Analytical Chemistry`
-
----
 
 **Researcher:** Sargol Mazraedoost
 
